@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://developer-portfolio-kappa-eight.vercel.app/).
+## View live preview [here](https://garimasharma.vercel.app/).
 
 ---
 
