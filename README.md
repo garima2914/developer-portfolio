@@ -4,7 +4,7 @@
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/garima2914/developer-portfolio)
 
 ---
 
@@ -145,26 +145,26 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder]https://github.com/garima2914/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  name: "GARIMA",
+  profile: '/image.png',
+  designation: "DATA ANALYST AND ML ENGINEER",
+  description: "My name is Garima. I am a passionate Data Analyst and Machine Learning Engineer with a strong curiosity for exploring data and uncovering meaningful insights. I enjoy solving complex problems, building data-driven solutions, and continuously learning new technologies to enhance my skills.With expertise in data analysis, visualization, and machine learning, I love transforming raw data into actionable knowledge that drives better decision-making. I am also enthusiastic about applying ML models to real-world challenges and making data more accessible and impactful.I am always open to opportunities that allow me to grow, collaborate, and contribute my skills to projects that create real value.",
+  email: 'garimasharmaatri123@gmail.com',
+  phone: '9653593923',
+  address: 'Village: Shillyon, Morni Hills Dist. Panchkula, Haryana, India 134205',
+  github: 'https://github.com/garima2914',
+  facebook: 'https://www.facebook.com/garima',
+  linkedIn: 'https://www.linkedin.com/in/garima-sharma-1226bb288',
+  twitter: 'https://twitter.com/garima',
+  stackOverflow: 'https://stackoverflow.com/users/16840768/garima',
+  leetcode: "https://leetcode.com/garima/",
+  devUsername: "garima",
   resume: "...",
 };
 ```
