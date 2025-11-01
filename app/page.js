@@ -29,8 +29,8 @@ export default async function Home() {
     <div suppressHydrationWarning >
       <HeroSection />
       <AboutSection />
-  <Experience />
-  <Education />
+      <Experience />
+      <Education />
       <Skills />
       <Projects />
       <Blog blogs={blogs} />
