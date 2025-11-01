@@ -1,15 +1,15 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Data analyst and ml training',
-    company: "instep technology",
-    duration: "(june30 - Present)"
+    title: 'Data Analyst and ML Training',
+    company: "InStep Technology",
+    duration: "(June 30 - September 30)"
   },
   {
     id: 2,
-    title: "frontend training",
-    company: "ocean technologies",
-    duration: "(July 2024 - Aug 2024)"
+    title: "Frontend Training",
+    company: "Ocean Technologies",
+    duration: "(July 2024 - August 2024)"
   }
   
 ]
